@@ -5,9 +5,9 @@
             "includePath": [
                 "C:\\Users\\admin\\AppData\\Local\\Arduino15\\packages\\esp8266\\tools\\**",
                 "C:\\Users\\admin\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\2.5.2\\**",
-                "D:/Program Files/arduino-1.8.9/hardware/tools/avr/lib/gcc/avr/5.4.0/include",
-                "D:/Program Files/arduino-1.8.9/hardware/arduino/avr/cores/arduino",
-                "D:/Program Files/arduino-1.8.9/hardware/arduino/avr/variants/standard",
+                "D:/Program Files/arduino-1.8.9/hardware/tools/avr/lib/gcc/avr/5.4.0/include/**",
+                "D:/Program Files/arduino-1.8.9/hardware/arduino/avr/cores/arduino/**",
+                "D:/Program Files/arduino-1.8.9/hardware/arduino/avr/variants/standard/**",
                 "D:/Program Files/arduino-1.8.9/**",
                 "${workspaceFolder}/**"
             ],
